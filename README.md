@@ -10,7 +10,7 @@ This repository contains a JavaScript (TBEL-compatible) script to convert a Greg
 
 ---
 ![image](https://github.com/user-attachments/assets/8f116d2d-85b2-4b20-8c52-0b046d81624f)
-
+the result is :
 ![image](https://github.com/user-attachments/assets/a5aa69b2-ec1a-4bd8-9851-6919f2e44672)
 
 
