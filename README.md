@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/4b8672a1-ff1b-4cc9-87f0-119a2473b79c)---
 
 # Gregorian to Jalali Date Converter
 
@@ -9,7 +9,12 @@ This repository contains a JavaScript (TBEL-compatible) script to convert a Greg
 - Supports conversion of time in `AM/PM` format.
 - Handles invalid date formats gracefully.
 
+
 ---
+![image](https://github.com/user-attachments/assets/8f116d2d-85b2-4b20-8c52-0b046d81624f)
+
+![image](https://github.com/user-attachments/assets/a5aa69b2-ec1a-4bd8-9851-6919f2e44672)
+
 
 # مبدل تاریخ میلادی به جلالی
 
