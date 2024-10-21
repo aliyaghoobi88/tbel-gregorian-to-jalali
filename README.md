@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/4b8672a1-ff1b-4cc9-87f0-119a2473b79c)---
-
 # Gregorian to Jalali Date Converter
 
 This repository contains a JavaScript (TBEL-compatible) script to convert a Gregorian date in ISO format (e.g., `2024-10-20T08:55:47`) to the equivalent Jalali (Shamsi) date and time.
